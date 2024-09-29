@@ -45,7 +45,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
 ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
-ALIVE_MSG : process.env.ALIVE_MSG || "Put your alive messege",
+ALIVE_MSG : process.env.ALIVE_MSG || "*Hello,🌝💗 BOT ONLINE NOW!!*",
 MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
 MODE : process.env.MODE || "public",    
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
